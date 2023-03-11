@@ -9,7 +9,9 @@ several parameters:
 NOTE: The app was basically completely created using ChatGPT
 and only slightly adapted by me.
 Chat GPT Prompt (11.03.2023):  
-![prompt](./static/prompt.png)
+![prompt](./static/prompt.png)  
+
+There's no guarantee that the calculated numbers are correct!
 
 ## Getting started
 Clone the repository locally
